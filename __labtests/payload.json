@@ -1,0 +1,103 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 5,
+  "numPassedTests": 1,
+  "numFailedTests": 4,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1704893270384,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite 4 correct",
+          "status": "failed",
+          "title": "4 correct",
+          "duration": 112,
+          "failureMessages": [
+            "Unable to find an element with the text: You scored 4 out of. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"app\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mclass\u001b[39m=\u001b[32m\"score-section\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mYou scored 1 out of \u001b[0m\n        \u001b[0m4\u001b[0m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 18,
+            "column": 41
+          }
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite 3 correct",
+          "status": "failed",
+          "title": "3 correct",
+          "duration": 12,
+          "failureMessages": [
+            "Unable to find an element with the text: You scored 3 out of. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"app\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mclass\u001b[39m=\u001b[32m\"score-section\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mYou scored 1 out of \u001b[0m\n        \u001b[0m4\u001b[0m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 26,
+            "column": 41
+          }
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite 2 correct",
+          "status": "failed",
+          "title": "2 correct",
+          "duration": 10,
+          "failureMessages": [
+            "Unable to find an element with the text: You scored 2 out of. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"app\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mclass\u001b[39m=\u001b[32m\"score-section\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mYou scored 1 out of \u001b[0m\n        \u001b[0m4\u001b[0m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 34,
+            "column": 41
+          }
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite 1 correct",
+          "status": "passed",
+          "title": "1 correct",
+          "duration": 8,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "suite"
+          ],
+          "fullName": " suite 1 correct",
+          "status": "failed",
+          "title": "1 correct",
+          "duration": 8,
+          "failureMessages": [
+            "Unable to find an element with the text: You scored 0 out of. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"app\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mclass\u001b[39m=\u001b[32m\"score-section\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mYou scored 1 out of \u001b[0m\n        \u001b[0m4\u001b[0m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 50,
+            "column": 41
+          }
+        }
+      ],
+      "startTime": 1704893273393,
+      "endTime": 1704893273543,
+      "status": "failed",
+      "message": "",
+      "name": "/home/damner/code/__labtests/reactcheck.test.jsx"
+    }
+  ]
+}
